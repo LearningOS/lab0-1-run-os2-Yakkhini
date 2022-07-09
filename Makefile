@@ -77,7 +77,7 @@ setupclassroom_test1:
 	git add .github/classroom/autograding.json
 	git add .github/workflows/classroom.yml
 	git add .github/.keep
-	git commit -m"update classroom.yml .keep autograding.json for classroom CI test"
+	git commit -S -m"update classroom.yml .keep autograding.json for classroom CI test"
 	git push
 
 setupclassroom_test2:
@@ -89,7 +89,7 @@ setupclassroom_test2:
 	git add .github/classroom/autograding.json
 	git add  .github/workflows/classroom.yml
 	git add  .github/.keep
-	git commit -m"update classroom.yml .keep autograding.json for classroom CI test"
+	git commit -S -m"update classroom.yml .keep autograding.json for classroom CI test"
 	git push
 
 setupclassroom_test3:
@@ -101,7 +101,7 @@ setupclassroom_test3:
 	git add .github/classroom/autograding.json
 	git add .github/workflows/classroom.yml
 	git add .github/.keep
-	git commit -m"update classroom.yml .keep autograding.json for classroom CI test"
+	git commit -S -m"update classroom.yml .keep autograding.json for classroom CI test"
 	git push
 
 setupclassroom_test4:
@@ -113,7 +113,7 @@ setupclassroom_test4:
 	git add .github/classroom/autograding.json
 	git add .github/workflows/classroom.yml
 	git add .github/.keep
-	git commit -m"update classroom.yml .keep autograding.json for classroom CI test"
+	git commit -S -m"update classroom.yml .keep autograding.json for classroom CI test"
 	git push
 
 setupclassroom_test5:
@@ -125,7 +125,7 @@ setupclassroom_test5:
 	git add .github/classroom/autograding.json
 	git add .github/workflows/classroom.yml
 	git add .github/.keep
-	git commit -m"update classroom.yml .keep autograding.json for classroom CI test"
+	git commit -S -m"update classroom.yml .keep autograding.json for classroom CI test"
 	git push
 
 setupclassroom_test6:
@@ -137,7 +137,7 @@ setupclassroom_test6:
 	git add .github/classroom/autograding.json
 	git add .github/workflows/classroom.yml
 	git add .github/.keep
-	git commit -m"update classroom.yml .keep autograding.json for classroom CI test"
+	git commit -S -m"update classroom.yml .keep autograding.json for classroom CI test"
 	git push
 
 setupclassroom_test7:
@@ -149,7 +149,7 @@ setupclassroom_test7:
 	git add .github/classroom/autograding.json
 	git add .github/workflows/classroom.yml
 	git add .github/.keep
-	git commit -m"update classroom.yml .keep autograding.json for classroom CI test"
+	git commit -S -m"update classroom.yml .keep autograding.json for classroom CI test"
 	git push
 
 setupclassroom_test8:
@@ -161,7 +161,7 @@ setupclassroom_test8:
 	git add .github/classroom/autograding.json
 	git add .github/workflows/classroom.yml
 	git add .github/.keep
-	git commit -m"update classroom.yml .keep autograding.json for classroom CI test"
+	git commit -S -m"update classroom.yml .keep autograding.json for classroom CI test"
 	git push
 
 # for local ubuntu with zsh shell SHELL, need root for sudo 
